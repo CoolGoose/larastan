@@ -1,7 +1,7 @@
 {
-    "name": "nunomaduro/larastan",
+    "name": "coolgoose/larastan-legacy",
     "type": "phpstan-extension",
-    "description": "Larastan - Discover bugs in your code without running it. A phpstan/phpstan wrapper for Laravel",
+    "description": "Larastan Legacy 1.x - Unmaintained fork to fix composer dependency",
     "keywords": [
         "laravel",
         "larastan",
@@ -17,7 +17,7 @@
         {
             "name": "Nuno Maduro",
             "email": "enunomaduro@gmail.com"
-        }
+        },
     ],
     "require": {
         "php": "^7.2 || ^8.0",
