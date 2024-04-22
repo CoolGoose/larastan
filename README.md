@@ -1,15 +1,5 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/nunomaduro/larastan/master/docs/logo.png" alt="Larastan Logo" width="300">
-    <br><br>
-    <img src="https://raw.githubusercontent.com/nunomaduro/larastan/master/docs/example.png" alt="Larastan Example" height="300">
-</p>
+> Note, this is just a workaround release for removing the direct composer dependency for the legacy unmaintained 1.x version. see https://github.com/composer/composer/issues/11940
 
-<p align="center">
-  <a href="https://github.com/nunomaduro/larastan/actions"><img src="https://github.com/nunomaduro/larastan/workflows/tests/badge.svg" alt="Build Status"></a>
-  <a href="https://packagist.org/packages/nunomaduro/larastan/stats"><img src="https://poser.pugx.org/nunomaduro/larastan/d/total.svg" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/nunomaduro/larastan"><img src="https://poser.pugx.org/nunomaduro/larastan/v/stable.svg" alt="Latest Version"></a>
-  <a href="https://github.com/nunomaduro/larastan/blob/master/LICENSE.md"><img src="https://poser.pugx.org/nunomaduro/larastan/license.svg" alt="License"></a>
-</p>
 
 ------
 
